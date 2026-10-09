@@ -1,4 +1,4 @@
 [package]
 version    = "0.1.0"
 flix       = "0.75.3"
-repository = "https://github.com/JonathanStarup/talpin1992-in-flix"
+repository = "github:JonathanStarup/talpin1992-in-flix"
