@@ -1,6 +1,4 @@
 [package]
-name        = "talpin1992-in-flix"
-description = "test"
-version     = "0.1.0"
-flix        = "0.75.3"
-authors     = ["John Doe <john@example.com>"]
+version    = "0.1.0"
+flix       = "0.75.3"
+repository = "https://github.com/JonathanStarup/talpin1992-in-flix"
